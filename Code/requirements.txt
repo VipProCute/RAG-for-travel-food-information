@@ -1,0 +1,15 @@
+streamlit
+pypdf2
+tqdm
+rank_bm25
+torch
+transformers
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-experimental
+langgraph
+sentence-transformers
+accelerate
+bitsandbytes
